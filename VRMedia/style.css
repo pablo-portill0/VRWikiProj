@@ -16,13 +16,12 @@ p {
 }
 .introbanner {
     height: 1000px;
-    background: none;
-}
-.introbanner > #introvideo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
+    background-image: url(imgs/jobsim_office2.png);
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .bannertext {
     text-align: center;
@@ -95,6 +94,11 @@ p {
     padding: 25px 15% 25px;
     max-width: 1100px;
     margin: 0 auto;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 .videocontainer{
     display: flex;
