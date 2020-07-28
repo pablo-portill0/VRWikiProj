@@ -4,6 +4,7 @@ URL: https://pablo-portill0.github.io/VRWikiProj/home/index.html
 
 
 Group Instructions
+
 Put each page's.html file in a separate folder named according to the topic.
 
 Be sure to name the .html files accordingly:
